@@ -1,6 +1,8 @@
 iko[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/748df8b3b52de9d1d25da
+
+![Screenshot 2024-04-18 143550](https://github.com/Themba006/LAMY_MD/assets/158316083/6ce6081d-63f3-4cd1-a571-f7ec82b2134c)
+
 </p>
 
 
