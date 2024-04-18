@@ -68,8 +68,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "Thembalamy",
   packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿",
-  ownername:process.env.OWNER_NAME|| "Themba lamy",
+  botname : process.env.BOT_NAME  || "LAMY MD",
+  ownername:process.env.OWNER_NAME|| "Themba Lamy",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
