@@ -55,7 +55,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2607XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
    𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
 
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Themba006/LAMY_MD?tab=readme-ov-file)*** 
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Themba006/LAMY_MD)*** 
 
 
 ### Thanks To
