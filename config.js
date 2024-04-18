@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "KING IBRAHIM MD 2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
+  caption : process.env.CAPTION || "THEMBA LAMY MD 2024" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
  
-  author : process.env.PACK_AUTHER|| "thembalamy",
+  author : process.env.PACK_AUTHER|| "Thembalamy",
   packname: process.env.PACK_NAME || "👑",
   botname : process.env.BOT_NAME  || "𝙆𝙄𝙉𝙂 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙈𝘿",
-  ownername:process.env.OWNER_NAME|| "It's Ibrahim",
+  ownername:process.env.OWNER_NAME|| "Themba lamy",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
