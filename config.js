@@ -14,7 +14,7 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Lusaka";
 global.github=process.env.GITHUB|| "https://github.com/king-ibrahim-md/KING-IBRAHIM-GPT";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj";
 global.website=process.env.GURL || "https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj" ; 
