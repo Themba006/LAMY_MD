@@ -27,46 +27,46 @@ iko[![-----------------------------------------------------](https://raw.githubu
 
   MADE IN ZAMBIA 😂😂🤣 
 
-## THE THREE STEPS TO MAKE THE BOT
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Themba006/LAMY-MD/fork)
 
-📌 FIRST FORK THE REPO.
-
-📌 NEXT SCAN THE QR AND TAKE THE SEASSON ID.
-
-📌 AFTER CLICK FOR YOUR SIUTABLE DEPLOYMENT PLATFORM AND DEPLOY THE BOT.  
-
-
-NEW METHOD ADDED (SCAN SESSION WITH YOUR NUMBER)
-EXAMPLE PUT IN YOUR NUMBER: 2607XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO YOUR WhatsApp
-
-𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
-        👇👇👇👇
-
-
- ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)***
-
-   𝗦𝗖𝗔𝗡 𝗤𝗥 👇👇
+2, TAP ON LAMY MD APP DOWN THERE
 
 
 
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://king-ibrahim-md-qr-code-c932a015796c.herokuapp.com/)                 
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
 
 
-   𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
+
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use LAMY MD App..
+
+## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  LAMY 𝙈𝘿
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Themba006/LAMY_MD)*** 
+
+<p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=http" width="220" height="38.45"/></a></p>
 
 
-### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
+[`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
+
+[`𝙂𝙄𝙁𝙏𝙀𝘿 𝙏𝙀𝘾𝙃`]
+
+[`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-The LAMY_MD is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+   
 
 
-<h2 align="center">  NOTICE
-</h2>
 
-## 
+
 LAMY 𝙈𝘿
