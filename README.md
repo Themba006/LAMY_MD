@@ -27,7 +27,7 @@ iko[![-----------------------------------------------------](https://raw.githubu
 
   MADE IN ZAMBIA 😂😂🤣 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/Themba006/LAMY-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/Themba006/LAMY_MD/fork)
 
 2, TAP ON LAMY MD APP DOWN THERE
 
