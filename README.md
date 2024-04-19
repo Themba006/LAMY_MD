@@ -35,24 +35,17 @@ iko[![-----------------------------------------------------](https://raw.githubu
 
 3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
 
+ ***Get `SESSION ID` by [`SCANING 𝗖𝗢𝗗𝗘`](https://suhail-md-vtsf.onrender.com/code)***
 
 
 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use LAMY MD App..
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  LAMY 𝙈𝘿
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨👇👇
 
-
-
-<p align="center"><a href="https://ibrahim-tech-app-11dd0aa09b64.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20DEPLOY%20YOUR%20BOT-grey?style=for-the-badge&logo=http" width="220" height="38.45"/></a></p>
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    
+***Deploy on [`Heroku`](https://dashboard.heroku.com/new?template=https://github.com/Themba006/LAMY_MD)*** 
    
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 [`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
